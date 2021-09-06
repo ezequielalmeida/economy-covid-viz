@@ -1,0 +1,185 @@
+CountryID;iso_code;country_name;continent;population
+1;AFG;Afghanistan;Asia;38041754
+2;ALB;Albania;Europe;2854191
+3;DZA;Algeria;Africa;43053054
+4;AGO;Angola;Africa;31825295
+5;ARG;Argentina;South America;44938712
+6;ARM;Armenia;Asia;2957731
+7;AUS;Australia;Oceania;25364307
+8;AUT;Austria;Europe;8877067
+9;AZE;Azerbaijan;Asia;10023318
+10;BHS;Bahamas;North America;389482
+11;BHR;Bahrain;Asia;1641172
+12;BGD;Bangladesh;Asia;163046161
+13;BRB;Barbados;North America;287025
+14;BLR;Belarus;Europe;9466856
+15;BEL;Belgium;Europe;11484055
+16;BLZ;Belize;North America;390353
+17;BEN;Benin;Africa;11801151
+18;BTN;Bhutan;Asia;763092
+19;BOL;Bolivia;South America;11513100
+20;BIH;Bosnia and Herzegovina;Europe;3301000
+21;BWA;Botswana;Africa;2303697
+22;BRA;Brazil;South America;211049527
+186;BRN;Brunei Darussalam;Asia;433285
+23;BGR;Bulgaria;Europe;6975761
+24;BFA;Burkina Faso;Africa;20321378
+25;MMR;Burma;Asia;54045420
+26;BDI;Burundi;Africa;11530580
+27;KHM;Cambodia;Asia;16486542
+28;CMR;Cameroon;Africa;25876380
+29;CAN;Canada;North America;37589262
+30;CPV;Cabo Verde;Africa;549935
+31;CAF;Central African Republic;Africa;4745185
+32;TCD;Chad;Africa;15946876
+33;CHL;Chile;South America;18952038
+34;CHN;China;Asia;1397715000
+35;COL;Colombia;South America;50339443
+36;COM;Comoros;Africa;850886
+37;COD;Congo, Democratic Republic of the Congo;Africa;86790567
+38;COG;Congo, Republic of;Africa;5380508
+39;CRI;Costa Rica;North America;5047561
+40;CIV;Côte d'Ivoire;Africa;25716544
+41;HRV;Croatia;Europe;4067500
+42;CUB;Cuba;North America;11333483
+43;CYP;Cyprus;Europe;1198575
+44;CZE;Czech Republic;Europe;10669709
+45;DNK;Denmark;Europe;5818553
+46;DJI;Djibouti;Africa;973560
+47;DMA;Dominica;North America;71808
+48;DOM;Dominican Republic;North America;10738958
+49;ECU;Ecuador;South America;17373662
+50;EGY;Egypt;Africa;100388073
+51;SLV;El Salvador;North America;6453553
+52;GNQ;Equatorial Guinea;Africa;1355986
+53;ERI;Eritrea;Africa;3497117
+54;EST;Estonia;Europe;1326590
+156;SWZ;Eswatini;Africa;1148130
+55;ETH;Ethiopia;Africa;112078730
+56;FJI;Fiji;Oceania;889953
+57;FIN;Finland;Europe;5520314
+58;FRA;France;Europe;67059887
+59;GAB;Gabon;Africa;2172579
+60;GMB;Gambia;Africa;2347706
+61;GEO;Georgia;Asia;3720382
+62;DEU;Germany;Europe;83132799
+63;GHA;Ghana;Africa;30417856
+64;GRC;Greece;Europe;10716322
+65;GTM;Guatemala;North America;16604026
+66;GIN;Guinea;Africa;12771246
+67;GNB;Guinea-Bissau;Africa;1920922
+68;GUY;Guyana;South America;782766
+69;HTI;Haiti;North America;11263077
+70;HND;Honduras;North America;9746117
+72;HUN;Hungary;Europe;9769949
+73;ISL;Iceland;Europe;361313
+74;IND;India;Asia;1366417754
+75;IDN;Indonesia;Asia;270625568
+76;IRN;Iran;Asia;82913906
+77;IRQ;Iraq;Asia;39309783
+78;IRL;Ireland;Europe;4941444
+79;ISR;Israel;Asia;9053300
+80;ITA;Italy;Europe;60297396
+81;JAM;Jamaica;North America;2948279
+82;JPN;Japan;Asia;126264931
+83;JOR;Jordan;Asia;10101694
+84;KAZ;Kazakhstan;Asia;18513930
+85;KEN;Kenya;Africa;52573973
+86;KIR;Kiribati;Oceania;117606
+87;KON;Korea, North ;Asia;25666161
+88;KOR;Korea, South;Asia;51709098
+185;OWID_KOS;Kosovo;Europe;1794248
+89;KWT;Kuwait;Asia;4207083
+90;KGZ;Kyrgyz Republic;Asia;6456900
+91;LAO;Laos;Asia;7169455
+92;LVA;Latvia;Europe;1912789
+93;LBN;Lebanon;Asia;6855713
+94;LSO;Lesotho;Africa;2125268
+95;LBR;Liberia;Africa;4937374
+96;LBY;Libya;Africa;6777452
+97;LIE;Liechtenstein;Europe;38019
+98;LTU;Lithuania;Europe;2786844
+99;LUX;Luxembourg;Europe;619896
+101;MKD;North Macedonia;Europe;2083459
+102;MDG;Madagascar;Africa;26969307
+103;MWI;Malawi;Africa;18628747
+104;MYS;Malaysia;Asia;31949777
+105;MDV;Maldives;Asia;530953
+106;MLI;Mali;Africa;19658031
+107;MLT;Malta;Europe;502653
+108;MRT;Mauritania;Africa;4525696
+109;MUS;Mauritius;Africa;1265711
+110;MEX;Mexico;North America;127575529
+111;FSM;Micronesia;Oceania;113815
+112;MDA;Moldova;Europe;2657637
+113;MNG;Mongolia;Asia;3225167
+114;MNE;Montenegro;Europe;622137
+115;MAR;Morocco;Africa;36471769
+116;MOZ;Mozambique;Africa;30366036
+117;NAM;Namibia;Africa;2494530
+118;NPL;Nepal;Asia;28608710
+119;NLD;Netherlands;Europe;17332850
+120;NZL;New Zealand;Oceania;4917000
+121;NIC;Nicaragua;North America;6545502
+122;NER;Niger;Africa;23310715
+123;NGA;Nigeria;Africa;200963599
+124;NOR;Norway;Europe;5347896
+125;OMN;Oman;Asia;4974986
+126;PAK;Pakistan;Asia;216565318
+127;PAN;Panama;North America;4246439
+128;PNG;Papua New Guinea;Oceania;8776109
+129;PRY;Paraguay;South America;7044636
+130;PER;Peru;South America;32510453
+131;PHL;Philippines;Asia;108116615
+132;POL;Poland;Europe;37970874
+133;PRT;Portugal;Europe;10269417
+134;QAT;Qatar;Asia;2832067
+135;ROU;Romania;Europe;19356544
+136;RUS;Russia;Europe;144373535
+137;RWA;Rwanda;Africa;12626950
+138;LCA;Saint Lucia;North America;182790
+139;VCT;Saint Vincent and the Grenadines;North America;110589
+140;WSM;Samoa;Oceania;197097
+141;STP;São Tomé and Príncipe;Africa;215056
+142;SAU;Saudi Arabia;Asia;34268528
+143;SEN;Senegal;Africa;16296364
+144;SRB;Serbia;Europe;6944975
+145;SYC;Seychelles;Africa;97625
+146;SLE;Sierra Leone;Africa;7813215
+147;SGP;Singapore;Asia;5703569
+148;SVK;Slovakia;Europe;5454073
+149;SVN;Slovenia;Europe;2087946
+150;SLB;Solomon Islands;Oceania;669823
+184;SOM;Somalia;Africa;15442905
+151;ZAF;South Africa;Africa;58558270
+152;ESP;Spain;Europe;47076781
+153;LKA;Sri Lanka;Asia;21803000
+154;SDN;Sudan;Africa;42813238
+155;SUR;Suriname;South America;581372
+157;SWE;Sweden;Europe;10285453
+158;CHE;Switzerland;Europe;8574832
+159;SYR;Syria;Asia;17070135
+160;TWN;Taiwan;Asia;23600000
+161;TJK;Tajikistan;Asia;9321018
+162;TZA;Tanzania;Africa;58005463
+163;THA;Thailand;Asia;69625582
+164;TLS;Timor-Leste;Asia;1293119
+165;TGO;Togo;Africa;8082366
+166;TON;Tonga;Oceania;104494
+167;TTO;Trinidad and Tobago;North America;1394973
+168;TUN;Tunisia;Africa;11694719
+169;TUR;Turkey;Asia;83429615
+170;TKM;Turkmenistan;Asia;5942089
+171;UGA;Uganda;Africa;44269594
+172;UKR;Ukraine;Europe;44385155
+173;ARE;United Arab Emirates;Asia;9770529
+174;GBR;United Kingdom;Europe;66834405
+175;USA;United States;North America;328239523
+176;URY;Uruguay;South America;3461734
+177;UZB;Uzbekistan;Asia;33580650
+178;VUT;Vanuatu;Oceania;299882
+179;VEN;Venezuela;South America;28515829
+180;VNM;Vietnam;Asia;96462106
+181;YEM;Yemen;Asia;29161922
+182;ZMB;Zambia;Africa;17861030
+183;ZWE;Zimbabwe;Africa;14645468
